@@ -1,3 +1,5 @@
+### based on the image_label code provided by tensorflow
+
 import argparse
 import cv2
 import numpy as np
